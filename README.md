@@ -20,3 +20,5 @@ Customizable Responses: Fine-tune the bot's behavior and responses based on your
 Note:
 
 As the Discord Bot - GPT 3.5 ChatBot leverages the powerful GPT-3.5 language model, ensure that you comply with OpenAI's usage policies and guidelines while interacting with the API.
+
+<img src="Screenshot_1.png" alt="Screenshot 1">
