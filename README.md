@@ -1,5 +1,8 @@
 Discord Bot - GPT 3.5 ChatBot
+
+
 The Discord Bot - GPT 3.5 ChatBot is a powerful and versatile chatbot integrated with the OpenAI GPT-3.5 API (turbo or da-vinci). This bot is designed to respond to all your texts just like how ChatGPT does, enabling seamless and interactive conversations within your Discord server.
+
 
 Features:
 
@@ -12,6 +15,7 @@ Channel-Specific Deployment: You have the flexibility to set the bot to respond 
 Group Conversations: The bot can handle multiple simultaneous conversations, making it perfect for group discussions with friends or community members.
 
 Customizable Responses: Fine-tune the bot's behavior and responses based on your preferences to create a more personalized chat experience.
+
 
 Note:
 
